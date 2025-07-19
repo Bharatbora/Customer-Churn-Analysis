@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis
+# Customer Churn Analysis
 
 This project focuses on understanding customer churn behavior in a European bank. The main objective is to identify key patterns and insights about customers who leave the bank, using exploratory data analysis (EDA) and an interactive Power BI dashboard.
 
