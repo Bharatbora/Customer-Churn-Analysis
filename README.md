@@ -34,7 +34,8 @@ The dataset contains information on **9,997 customers** of a European bank. It i
 - `customer_churn_raw.txt`: Project summary and description.
 
 ## Dashboard Insights
-[Customer Churn Dashboard](customer_churn)
+
+![Dashboard Preview](customer_churn.png)
 
 The Power BI dashboard provides a visual summary of:
 - Total customers and churned customers.
