@@ -17,7 +17,7 @@ The dataset contains information on **9,997 customers** of a European bank. It i
 - Customer activity (Is Active Member, Has Credit Card)
 - Target variable: `Exited` (indicates if the customer churned)
 
-## Tools & Technologies Used
+## Tools  Used
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning and exploratory analysis.
 - **Power BI** for building an interactive dashboard.
